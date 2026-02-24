@@ -1,6 +1,23 @@
 # TransAX-app
+## <ins>Problem Statement</ins>
 This app will be used to review bank statements (debit cards, credit cards, etc.) and will use this information to categorize in a .csv file under respective categories. It will also use it to see if expenses are within expected budget. 
 
+## <ins>Solution</ins> 
+
+## <ins>Requirements</ins>
+### <ins>Functional Requirements</ins>
+### <ins>Non-Functional Requirements</ins>
+
+## <ins>Design</ins>
+
+### <ins>ER-Diagram</ins>
+### <ins>Database Design</ins>
+### <ins>User Flows</ins>
+### <ins>System Architecture</ins>
+### <ins>User Interface Design</ins>
+
+
+## Points:
 -> There will be seperate tables: one for income, one for expenses, and one for account balances. There will also be a table showing whether there is a budget surplus or defecit.
 -> The app should also provide the option to input transactions in real time, meaning that you can provide some input into the app to enter in one of the categories.
 -> The app will either autogenerate categories based on the items found in the statement, or it will take manual input from the user for categories that they want to include.
