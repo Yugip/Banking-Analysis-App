@@ -6,6 +6,9 @@ This app will be used to review bank statements (debit cards, credit cards, etc.
 
 ## <ins>Requirements</ins>
 ### <ins>Functional Requirements</ins>
+#### Security Features
+#### Profile Features?
+
 ### <ins>Non-Functional Requirements</ins>
 
 ## <ins>Design</ins>
