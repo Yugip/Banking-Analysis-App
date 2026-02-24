@@ -1,4 +1,4 @@
-# TransAX
+# TransAX - the budgetting app you need
 
 Are you tired of reviewing your bank statements and not understanding what some of your transactions are?
 
