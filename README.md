@@ -4,7 +4,7 @@ Are you tired of reviewing your bank statements and not understanding what some 
 
 Are you done with creating excel documents which take hours on to complete just to make sure you are within your budget? 
 
-Let me introducie **TransAX**, the app that does it all for you! 
+Introducing **TransAX**, the app that does it all for you! 
 
 This app will be used to review your bank statements (debit cards, credit cards, etc.) and will use this information to categorize appropriately in a .csv file. It will also be used to see if the user is spending within their expected budget. You will be able to see in real-time how your spending habits are affecting your finances. It will also help to plan out your finances better but giving certain suggestions depending on patterns it sees in your transactions. 
 
